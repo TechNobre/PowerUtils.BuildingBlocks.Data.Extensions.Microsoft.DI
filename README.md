@@ -7,7 +7,7 @@ Scans assemblies and add the repositories in container. To use, with an IService
 
 [![NuGet](https://img.shields.io/nuget/v/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI.svg)](https://www.nuget.org/packages/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI)
 [![Nuget](https://img.shields.io/nuget/dt/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI.svg)](https://www.nuget.org/packages/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI)
-[![License: MIT](https://img.shields.io/github/license/ofpinewood/http-exceptions.svg)](https://github.com/TechNobre/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/github/license/TechNobre/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI.svg)](https://github.com/TechNobre/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI/blob/main/LICENSE)
 
 
 
