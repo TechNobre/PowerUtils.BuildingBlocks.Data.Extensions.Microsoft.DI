@@ -4,7 +4,7 @@
 
 ***Scans assemblies and add the repositories in container. To use, with an IServiceCollection***
 
-![Tests](https://github.com/TechNobre/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI/actions/workflows/test-project.yml/badge.svg)
+![Tests](https://github.com/TechNobre/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI/actions/workflows/tests.yml/badge.svg)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=TechNobre_PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=TechNobre_PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=TechNobre_PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI&metric=coverage)](https://sonarcloud.io/summary/new_code?id=TechNobre_PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI)
 
