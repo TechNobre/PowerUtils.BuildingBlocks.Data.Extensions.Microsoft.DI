@@ -13,6 +13,7 @@ namespace PowerUtils.BuildingBlocks.Data
     /// - Scans for any interface implementations and registers them as <see cref="ServiceLifetime.Scoped"/>
     /// After calling AddRepositories you can use the container to resolve direct interfaces implemented.
     /// </summary>
+    [Obsolete("This package has been discontinued because it never evolved, and the code present in this package does not justify its continuation. It is preferable to implement this code directly in the project if necessary.")]
     public static class ServiceCollectionExtensions
     {
         private static readonly Type[] _interfaces = new[]
@@ -29,6 +30,7 @@ namespace PowerUtils.BuildingBlocks.Data
         /// <returns>Service collection</returns>
         /// <exception cref="AmbiguousMatchException">When ambiguous repository interfaces exist</exception>
         /// <exception cref="ArgumentException">When no assemblies found to scan repositories</exception>
+        [Obsolete("This package has been discontinued because it never evolved, and the code present in this package does not justify its continuation. It is preferable to implement this code directly in the project if necessary.")]
         public static IServiceCollection AddRepositories(this IServiceCollection services, ServiceLifetime lifetime = ServiceLifetime.Scoped)
             => _registrarRepositories(services, AppDomain.CurrentDomain.GetAssemblies(), lifetime);
 
@@ -40,6 +42,7 @@ namespace PowerUtils.BuildingBlocks.Data
         /// <returns>Service collection</returns>
         /// <exception cref="AmbiguousMatchException">When ambiguous repository interfaces exist</exception>
         /// <exception cref="ArgumentException">When no assemblies found to scan repositories</exception>
+        [Obsolete("This package has been discontinued because it never evolved, and the code present in this package does not justify its continuation. It is preferable to implement this code directly in the project if necessary.")]
         public static IServiceCollection AddRepositories(this IServiceCollection services, params Assembly[] assemblies)
             => _registrarRepositories(services, assemblies, ServiceLifetime.Scoped);
 
@@ -52,6 +55,7 @@ namespace PowerUtils.BuildingBlocks.Data
         /// <returns>Service collection</returns>
         /// <exception cref="AmbiguousMatchException">When ambiguous repository interfaces exist</exception>
         /// <exception cref="ArgumentException">When no assemblies found to scan repositories</exception>
+        [Obsolete("This package has been discontinued because it never evolved, and the code present in this package does not justify its continuation. It is preferable to implement this code directly in the project if necessary.")]
         public static IServiceCollection AddRepositories(this IServiceCollection services, ServiceLifetime lifetime, params Assembly[] assemblies)
             => _registrarRepositories(services, assemblies, lifetime);
 
