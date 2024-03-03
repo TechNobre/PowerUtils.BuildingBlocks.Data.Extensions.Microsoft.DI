@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/TechNobre/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI/compare/v1.1.0...v2.0.0) (2024-03-03)
+
+
+### Bug Fixes
+
+* Marked all implementations as `Obsolete` ([177dc0f](https://github.com/TechNobre/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI/commit/177dc0f5c0839a162fd98c6d740aacbe8b59910a))
+
+
+### BREAKING CHANGES
+
+* Deprecated package
+
 # [1.1.0](https://github.com/TechNobre/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI/compare/v1.0.0...v1.1.0) (2022-07-16)
 
 
