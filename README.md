@@ -1,5 +1,9 @@
 # PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI
 
+# :warning: DEPRECATED
+
+This package has been discontinued because it never evolved, and the code present in this package does not justify its continuation. It is preferable to implement this code directly in the project.
+
 ![Logo](https://raw.githubusercontent.com/TechNobre/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI/main/assets/logo/logo_128x128.png)
 
 ***Scans assemblies and add the repositories in container. To use, with an IServiceCollection***
@@ -12,15 +16,13 @@
 [![Nuget](https://img.shields.io/nuget/dt/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI.svg)](https://www.nuget.org/packages/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI)
 [![License: MIT](https://img.shields.io/github/license/TechNobre/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI.svg)](https://github.com/TechNobre/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI/blob/main/LICENSE)
 
-- [Support](#support-to)
-- [Dependencies](#dependencies)
-- [How to use](#how-to-use)
-    - [Installation](#installation)
-    - [ServiceCollectionExtensions](#ServiceCollectionExtensions)
-      - [AddRepositories](#ServiceCollectionExtensions.AddRepositories)
-- [Contribution](#contribution)
-- [License](./LICENSE)
-- [Changelog](./CHANGELOG.md)
+- [Support to ](#support-to-)
+- [Dependencies ](#dependencies-)
+- [How to use ](#how-to-use-)
+  - [Install NuGet package ](#install-nuget-package-)
+  - [ServiceCollectionExtensions ](#servicecollectionextensions-)
+    - [AddRepositories(); ](#addrepositories-)
+- [Contribution ](#contribution-)
 
 
 
