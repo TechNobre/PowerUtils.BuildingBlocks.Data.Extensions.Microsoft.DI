@@ -8,12 +8,6 @@ This package has been discontinued because it never evolved, and the code presen
 
 ***Scans assemblies and add the repositories in container. To use, with an IServiceCollection***
 
-![Tests](https://github.com/TechNobre/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI/actions/workflows/tests.yml/badge.svg)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=TechNobre_PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=TechNobre_PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=TechNobre_PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI&metric=coverage)](https://sonarcloud.io/summary/new_code?id=TechNobre_PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI)
-
-[![NuGet](https://img.shields.io/nuget/v/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI.svg)](https://www.nuget.org/packages/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI)
-[![Nuget](https://img.shields.io/nuget/dt/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI.svg)](https://www.nuget.org/packages/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI)
 [![License: MIT](https://img.shields.io/github/license/TechNobre/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI.svg)](https://github.com/TechNobre/PowerUtils.BuildingBlocks.Data.Extensions.Microsoft.DI/blob/main/LICENSE)
 
 - [Support to ](#support-to-)
